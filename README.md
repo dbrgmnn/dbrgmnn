@@ -1,8 +1,10 @@
-### Welcome to my GitHub
+### Welcome, and thank you for visiting
 
 Backend developer working with Python and Go. Interested in architecture, performance, and infrastructure.
 
-### 🧰 Tech Stack
+My goal is to build projects that truly work and bring value. I believe that details matter, and a good backend is the key to the stability of any product.
+
+### ⚙️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff)
