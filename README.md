@@ -1,9 +1,6 @@
 ## About
 
-Backend developer working with Python and Go.
-I care about code that's easy to reason about and systems that don't fall over.
-
-Still learning. Building things in the meantime.
+This profile showcases my projects and what I've been working on. I build robust backend systems, automate configurations, and containerize applications. My main focus is on writing clear code, streamlining deployments, and keeping infrastructure stable.
 
 ### Stack
 
